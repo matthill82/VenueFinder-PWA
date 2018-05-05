@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The SpotList component renders correctly 1`] = `
+<div
+  className="spot-table"
+>
+  <ul
+    className="spot-table__list"
+  />
+</div>
+`;

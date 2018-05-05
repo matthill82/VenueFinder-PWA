@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The SpotItem component renders correctly 1`] = `
+<li
+  className="spot-table__item"
+  data-selector="spot-table__item"
+>
+  <button
+    className="spot-table__item-name"
+  >
+    test
+  </button>
+  <button
+    className="spot-table__item-distance"
+  >
+    1.23
+    km away
+  </button>
+</li>
+`;

@@ -1,0 +1,76 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<SearcBar getValues updateSearchbarQuery /> renders correctly 1`] = `
+<div
+  className="search-bar"
+>
+  <div
+    aria-describedby={undefined}
+    className="MuiFormControl-root-1 MuiFormControl-marginNormal-2 search-bar__input"
+    data-selector="search-bar__input"
+    onBlur={[Function]}
+    onFocus={[Function]}
+  >
+    <label
+      className="MuiFormLabel-root-11 MuiInputLabel-root-5 MuiInputLabel-formControl-6 MuiInputLabel-animated-9"
+      data-shrink={false}
+      htmlFor="search"
+    >
+      Search field
+    </label>
+    <div
+      className="MuiInput-root-17 MuiInput-formControl-18 MuiInput-underline-21"
+    >
+      <input
+        aria-invalid={false}
+        aria-required={false}
+        autoComplete={undefined}
+        autoFocus={undefined}
+        className="MuiInput-input-25 MuiInput-inputType-29 MuiInput-inputTypeSearch-30"
+        defaultValue={undefined}
+        disabled={false}
+        id="search"
+        name={undefined}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        onKeyDown={undefined}
+        onKeyUp={undefined}
+        placeholder="Search spots..."
+        readOnly={undefined}
+        required={undefined}
+        rows={undefined}
+        type="search"
+        value={undefined}
+      />
+    </div>
+  </div>
+  <button
+    className="MuiButtonBase-root-46 MuiButton-root-31 MuiButton-raised-36 search-bar__button"
+    data-selector="search-bar__button"
+    disabled={false}
+    onBlur={[Function]}
+    onClick={[Function]}
+    onFocus={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    tabIndex="0"
+    type="button"
+  >
+    <span
+      className="MuiButton-label-32"
+    >
+      Search near me
+    </span>
+    <span
+      className="MuiTouchRipple-root-49"
+    />
+  </button>
+</div>
+`;

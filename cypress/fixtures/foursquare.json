@@ -1,0 +1,1165 @@
+{
+  "meta": {
+    "code": 200,
+    "requestId": "5ab2446df594df7ec1976baa"
+  },
+  "response": {
+    "minivenues": [
+      {
+        "id": "4cd5475776ab721edc016c6a",
+        "name": "Rob's Coffee",
+        "location": {
+          "address": "400 Oxford St",
+          "city": "London",
+          "postalCode": "W1A 1AB",
+          "country": "GB",
+          "lat": 51.514401,
+          "lng": -0.151777,
+          "distance": 2011
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "5565c24d498e2885d1b9a54e",
+        "name": "Coffee Geek and Friends",
+        "location": {
+          "address": "Unit 22 Cardinal Place",
+          "crossStreet": "6 Cathedral Walk",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1E 5JH",
+          "country": "GB",
+          "lat": 51.497637766641226,
+          "lng": -0.14152257296847814,
+          "distance": 30
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "5953e61e9ef8ef439ed31dd3",
+        "name": "Notes Coffee",
+        "location": {
+          "address": "10 Sir Simon Milton Square",
+          "city": "London",
+          "postalCode": "SW1E 5DJ",
+          "country": "GB",
+          "lat": 51.49767638519322,
+          "lng": -0.14333593110964535,
+          "distance": 155
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b5b3862f964a52028ec28e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "Chantrey House, 98 Buckingham Palace Rd",
+          "crossStreet": "At Eccelson St",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1W 0SS",
+          "country": "GB",
+          "lat": 51.49428298621601,
+          "lng": -0.14685399892632364,
+          "distance": 543
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "5a19c873356b4976e646ed4b",
+        "name": "The Coffee Bar",
+        "location": {
+          "address": "Harrods",
+          "crossStreet": "Food Hall",
+          "city": "Knightsbridge",
+          "state": "Greater London",
+          "postalCode": "SW1X 7XL",
+          "country": "GB",
+          "lat": 51.499236040921,
+          "lng": -0.16279149498231416,
+          "distance": 1514
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4c5e9aaf9b28d13a44c35c70",
+        "name": "Costa Coffee",
+        "location": {
+          "address": "3 Cardinal Walk",
+          "crossStreet": "Victoria St",
+          "city": "Victoria",
+          "state": "London",
+          "postalCode": "SW1E 5JE",
+          "country": "GB",
+          "lat": 51.497073100951006,
+          "lng": -0.14138758351263697,
+          "distance": 61
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "59d79c99a4ba7c0c452328c3",
+        "name": "Black Sheep Coffee",
+        "location": {
+          "address": "189 Victoria St",
+          "city": "London",
+          "state": "England",
+          "postalCode": "SW1E 5NE",
+          "country": "GB",
+          "lat": 51.49651399728157,
+          "lng": -0.14354999893013837,
+          "distance": 208
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b45bab5f964a520a40f26e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "137 Victoria St",
+          "crossStreet": "Ashdown House",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1E 6RD",
+          "country": "GB",
+          "lat": 51.49694300977624,
+          "lng": -0.13885596867101,
+          "distance": 171
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b8633f6f964a520968231e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "27 Victoria Street,",
+          "crossStreet": "Nr Abbey Orchard St",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1H 0EX",
+          "country": "GB",
+          "lat": 51.49819599326579,
+          "lng": -0.13267596141945281,
+          "distance": 587
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b0c6aa1f964a520cd3c23e3",
+        "name": "Flat Cap Coffee Co",
+        "location": {
+          "address": "4 Strutton Ground",
+          "crossStreet": "at Old Pye St",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1P 2HR",
+          "country": "GB",
+          "lat": 51.497496471776074,
+          "lng": -0.1338580949574261,
+          "distance": 501
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b9e7bb3f964a520ece736e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "6a Vigo St",
+          "crossStreet": "Sackville St.",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1S 3HF",
+          "country": "GB",
+          "lat": 51.51028802450083,
+          "lng": -0.13915398207820484,
+          "distance": 1418
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4ae2d576f964a520828f21e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "52 Berkeley St",
+          "crossStreet": "Near Piccadilly",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1J 8ET",
+          "country": "GB",
+          "lat": 51.50744202987741,
+          "lng": -0.14252696391746073,
+          "distance": 1100
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "5082d072e4b09e409c582ab4",
+        "name": "TAP Coffee No. 193",
+        "location": {
+          "address": "193 Wardour St",
+          "crossStreet": "btwn Oxford St & Noel St",
+          "city": "Soho",
+          "state": "London",
+          "postalCode": "W1F 8ZF",
+          "country": "GB",
+          "lat": 51.51551582674624,
+          "lng": -0.13553495784574182,
+          "distance": 2031
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b7e5255f964a52076e92fe3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "Unit 38, Victoria Station",
+          "crossStreet": "Near Bridge Pl. Exit",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1V 1JT",
+          "country": "GB",
+          "lat": 51.49470602199605,
+          "lng": -0.1430860382580068,
+          "distance": 350
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b8e209af964a5200b1933e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "27 Berkeley St, Berkeley Square",
+          "crossStreet": "At Lansdowne",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1X 5AD",
+          "country": "GB",
+          "lat": 51.50883103981792,
+          "lng": -0.14419900818724193,
+          "distance": 1268
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b10f3f0f964a520f37623e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "44-48 Brompton Rd",
+          "city": "Knightsbridge",
+          "state": "Greater London",
+          "postalCode": "SW3 1BW",
+          "country": "GB",
+          "lat": 51.500533033678025,
+          "lng": -0.16260403317795552,
+          "distance": 1525
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4e2e60a41838f1c552b9ef8d",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "17 Broadway,",
+          "crossStreet": "Near Dacre St.",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1H 0AZ",
+          "country": "GB",
+          "lat": 51.49910695993994,
+          "lng": -0.13356203416817183,
+          "distance": 548
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4ac518edf964a520c1ac20e3",
+        "name": "Monmouth Coffee Company",
+        "location": {
+          "address": "27 Monmouth St",
+          "city": "Holborn and Covent Garden",
+          "state": "Greater London",
+          "postalCode": "WC2H 9EU",
+          "country": "GB",
+          "lat": 51.5143140018737,
+          "lng": -0.12682396604600482,
+          "distance": 2107
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b8d1458f964a52001e732e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "16-18 Palmer St.",
+          "crossStreet": "nr. Petty France",
+          "city": "Greater London",
+          "state": "Greater London",
+          "postalCode": "SW1H 0AD",
+          "country": "GB",
+          "lat": 51.499001010019555,
+          "lng": -0.1354740361959084,
+          "distance": 419
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b068caff964a52005ed22e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "35 Horseferry Rd",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1P 2AA",
+          "country": "GB",
+          "lat": 51.49472900516211,
+          "lng": -0.13042402385477198,
+          "distance": 805
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "5299c71d11d2209a6d883942",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "Victoria Station Platfrom 2",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "SW1W 0SH",
+          "country": "GB",
+          "lat": 51.494775966657954,
+          "lng": -0.1431309750750836,
+          "distance": 344
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4e803da030f8a9b9d75ee8f6",
+        "name": "Department of Coffee and Social Affairs",
+        "location": {
+          "address": "3 Lowndes Ct",
+          "crossStreet": "Carnaby St",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1F 7HD",
+          "country": "GB",
+          "lat": 51.513519657444505,
+          "lng": -0.1390868989375154,
+          "distance": 1777
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4bf58dd8d48988d16d941735",
+            "name": "Café",
+            "pluralName": "Cafés",
+            "shortName": "Café",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/cafe_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "502904745dd7750e9d63bc17",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "1-3 Villiers St",
+          "city": "London",
+          "postalCode": "WC2N 6NN",
+          "country": "GB",
+          "lat": 51.507450020500414,
+          "lng": -0.12286296504622946,
+          "distance": 1672
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4dd6e44e922ef477d2a49d2f",
+        "name": "Workshop Coffee Co.",
+        "location": {
+          "address": "1 Barrett St",
+          "crossStreet": "St Christopher's Pl",
+          "city": "Marylebone",
+          "state": "Greater London",
+          "postalCode": "W1U 1AX",
+          "country": "GB",
+          "lat": 51.51509881481282,
+          "lng": -0.150194381308428,
+          "distance": 2047
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4bebeb7f415e20a17fd0e6bb",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "60-66 Wardour St",
+          "crossStreet": "Ground Floor, National House",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1F 0TA",
+          "country": "GB",
+          "lat": 51.512711978639366,
+          "lng": -0.13335301255163115,
+          "distance": 1765
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b77eb6ff964a520c4ae2ee3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "442 Strand",
+          "crossStreet": "at Charing Cross",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "WC2R 0QU",
+          "country": "GB",
+          "lat": 51.50884898921579,
+          "lng": -0.1253130315073359,
+          "distance": 1662
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4ae0476af964a5206e7e21e3",
+        "name": "Ravello Coffee Co",
+        "location": {
+          "address": "61-71 Victoria St",
+          "city": "Victoria",
+          "state": "UK",
+          "postalCode": "SW1H 0HW",
+          "country": "GB",
+          "lat": 51.49789492354463,
+          "lng": -0.13420368954742942,
+          "distance": 478
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1c5941735",
+            "name": "Sandwich Place",
+            "pluralName": "Sandwich Places",
+            "shortName": "Sandwiches",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/deli_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b73d904f964a52076bd2de3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "129-131 Charing Cross Rd",
+          "city": "Camden",
+          "state": "Greater London",
+          "postalCode": "WC2H 0EW",
+          "country": "GB",
+          "lat": 51.51523302238341,
+          "lng": -0.13019098167353438,
+          "distance": 2103
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "4b56dcbcf964a5205a1d28e3",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "3 Conduit St",
+          "crossStreet": "Regent St",
+          "city": "London",
+          "state": "Greater London",
+          "postalCode": "W1S 2BX",
+          "country": "GB",
+          "lat": 51.51297398929289,
+          "lng": -0.1411349997729647,
+          "distance": 1711
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      },
+      {
+        "id": "57d2ce91498e96cce8cc30f0",
+        "name": "Starbucks Coffee",
+        "location": {
+          "address": "164 Buckingham Palace Rd",
+          "crossStreet": "Elizabeth St",
+          "city": "London",
+          "country": "GB",
+          "lat": 51.49269032646573,
+          "lng": -0.14904023879117367,
+          "distance": 775
+        },
+        "categories": [
+          {
+            "id": "4bf58dd8d48988d1e0931735",
+            "name": "Coffee Shop",
+            "pluralName": "Coffee Shops",
+            "shortName": "Coffee Shop",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/coffeeshop_",
+              "suffix": ".png"
+            }
+          },
+          {
+            "id": "4d4b7105d754a06374d81259",
+            "name": "Food",
+            "pluralName": "Food",
+            "shortName": "Food",
+            "icon": {
+              "prefix": "https:\/\/ss3.4sqi.net\/img\/categories_v2\/food\/default_",
+              "suffix": ".png"
+            }
+          }
+        ],
+        "hasPerk": false
+      }
+    ]
+  }
+}

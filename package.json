@@ -1,0 +1,73 @@
+{
+  "name": "solondon-react-only",
+  "version": "0.1.0",
+  "private": true,
+  "author": {
+    "name": "Matthew Hill"
+  },
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "material-ui": "^1.0.0-beta.38",
+    "node-sass-chokidar": "0.0.3",
+    "normalize.css": "^8.0.0",
+    "npm": "^5.7.1",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-foursquare-es5-mod": "^1.0.2",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.0",
+    "redux": "^3.7.2",
+    "redux-thunk": "^2.2.0",
+    "serve": "^6.5.3"
+  },
+  "scripts": {
+    "build-css": "node-sass-chokidar src/ -o src/",
+    "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "eslint-check": "eslint --print-config .eslintrc.js | eslint-config-prettier-check",
+    "test:coverage": "npm run test -- --coverage",
+    "e2e-tests": "npx cypress open",
+    "e2e-tests:ci": "npx cypress run"
+  },
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.jsx",
+      "!<rootDir>/node_modules/",
+      "!<rootDir>/path/to/dir/"
+    ],
+    "coverageThreshold": {
+      "global": {
+        "branches": 70,
+        "functions": 70,
+        "lines": 70,
+        "statements": 70
+      }
+    },
+    "coverageReporters": [
+      "lcov"
+    ]
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "cypress": "^2.1.0",
+    "enzyme": "^3.3.0",
+    "enzyme-adapter-react-16": "^1.1.1",
+    "eslint": "^4.17.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.6.1",
+    "fetch-mock": "^6.0.0",
+    "react-test-renderer": "^16.2.0",
+    "redux-devtools": "^3.4.1",
+    "redux-mock-store": "^1.5.1",
+    "selenium-standalone": "^6.12.0",
+    "sinon": "^4.3.0"
+  }
+}
